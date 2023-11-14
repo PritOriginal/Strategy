@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: "\u041F\u043E\u043B\u04354"
+  m_Name: TileShallow
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 969a73d4b51b69544832ee66a6d8e074, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a9ed80cbb314edc48982d79a88b1e114, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
